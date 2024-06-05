@@ -36,7 +36,7 @@ deno task watch
 Then, load the locally built plug, add it to your `PLUGS` note with an absolute path, for instance:
 
 ```
-- file:/Users/you/path/to/katex.plug.json
+- file:/Users/you/path/to/typst.plug.js
 ```
 
 And run the `Plugs: Update` command in SilverBullet.
