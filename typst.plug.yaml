@@ -1,0 +1,5 @@
+name: typst
+functions:
+  typstWidget:
+    path: ./typst.ts:widget
+    codeWidget: typst
