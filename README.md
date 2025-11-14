@@ -1,7 +1,7 @@
 # Silverbullet Typst(Wypst) plug
 
 > [!WARNING]  
-> This is outdated in a number of ways and was really only a tech demo. I don't recommend using it anymore. [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) is probably what should be used today.
+> This is outdated in a number of ways and was really only a tech demo. I don't recommend using it anymore. [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) is probably what should be used today to build an alternative.
 
 ## FYI
 This plug uses [wypst](https://github.com/0xpapercut/wypst) which is far from finished, so use with caution. Because wypst is mimicking KaTeX, this plug is just a fork of the [KaTeX Plug](https://github.com/silverbulletmd/silverbullet-katex)
